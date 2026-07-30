@@ -8,13 +8,7 @@ The dashboard provides decision-makers with a quick overview of key business met
 
 ---
 
-## Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-![Dashboard](Dashboard.png)
-
----
 
 ## Features
 
